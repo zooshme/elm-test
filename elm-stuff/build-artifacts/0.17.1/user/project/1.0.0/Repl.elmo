@@ -1,0 +1,9 @@
+var _user$project$Repl$t_s_o_l = {ctor: '_Tuple0'};
+var _user$project$Repl$half = function (n) {
+	return n / 2;
+};
+var _user$project$Repl$divide = F2(
+	function (x, y) {
+		return x / y;
+	});
+var _user$project$Repl$d_e_l_t_r_o_n_3_0_3_0 = A2(_user$project$Repl$divide, 128, 2);
